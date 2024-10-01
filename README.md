@@ -1,6 +1,6 @@
 # User Search and Filter
 
-A simple web application that allows filtering and searching for users in a list, built using **HTML**, **CSS**, and **JavaScript**. This project lets users dynamically search through a list of names and filter results in real-time as they type.
+A simple web application that allows filtering and searching for users in a list, built using **HTML**, **CSS**, and **JavaScript**. This project lets users dynamically search through a list of names and filter results in real-time as they type. You can see it [here](https://remyshift.github.io/PMP-JS_ListFilter/).
 
 ## Table of Contents
 
